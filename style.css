@@ -8,9 +8,11 @@
     height: 60px;
     background: #0F1111;
     color: white;
+    display: flex;
+    align-items: center;
 }
 
-.navlogo{
+.nav-logo{
     height: 50px;
     width: 100px;
 }
@@ -20,4 +22,28 @@
     background-size: cover;
     height: 50px;
     width: 100%;
+}
+
+.border{
+    border: 2px solid transparent;
+}
+
+.border:hover{
+    border: 1.5px solid white;
+}
+
+/* box 2 styling */
+
+.add-first{
+    font-size: 0.85rem;
+    color: #cccccc;
+    margin-left: 15px;
+}
+.add-sec{
+    font-size: 1rem;
+    margin-left: 3px;
+}
+.add-icon{
+    display: flex;
+    align-items: center;
 }
