@@ -100,3 +100,13 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
+
+/* .box 5 styling */
+
+.nav-cart{
+    display: flex;
+    align-items: end;
+}
+.nav-cart i {
+    font-size: 30px;
+}
