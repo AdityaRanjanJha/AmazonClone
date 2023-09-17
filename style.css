@@ -87,6 +87,10 @@
     
 }
 
+.nav-search:hover{
+    border: 2px solid orange;
+}
+
 /* box 4 styling */
 
 span{
